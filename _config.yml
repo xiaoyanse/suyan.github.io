@@ -1,8 +1,8 @@
 # Site settings
-title: 闫肃的博客
+title: 地方士大夫士大夫
 email: suyan0830@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  啊实打实大苏打
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
